@@ -1,0 +1,3 @@
+rootProject.name = "TestGitProject"
+include ':app'
+include ':loglib'
